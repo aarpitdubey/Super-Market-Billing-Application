@@ -1,0 +1,37 @@
+    #==================== Variables =========================================================
+            self.soap.set(0)
+            self.face_creame.set(0)
+            self.face_wash.set(0)
+            self.spray.set(0)
+            self.gell.set(0)
+            self.lotion.set(0)
+            #====================== Grocery ========================================================
+            self.rice.set(0)
+            self.food_oil.set(0)
+            self.daal.set(0)
+            self.wheat.set(0)
+            self.sugar.set(0)
+            self.tea.set(0)       
+            #===================== Cold Drink ========================================================
+            self.maza.set(0)
+            self.coke.set(0)
+            self.frooti.set(0)
+            self.thumbsup.set(0)
+            self.limca.set(0)
+            self.sprite.set(0)
+            #====================== Total Product Price & Tax variable ===============================
+            self.cosmetic_price.set("")
+            self.grocery_price.set("")
+            self.cold_drink_price.set("")
+
+            self.cosmetic_tax.set("")
+            self.grocery_tax.set("")
+            self.cold_drink_tax.set("")
+            #======================= Customer  ==========================================================
+            self.c_name.set("")
+            self.c_phon.set("")
+            self.bill_no.set("")
+            x = random.randint(1000, 9999)
+            self.bill_no.set(str(x))
+            self.search_bill.set("")
+            self.welcome_bill()

@@ -1,0 +1,18 @@
+       Welcome Webstore Details
+ ｡☆✼★━━━━━━━━━━━━━━━★✼☆｡
+
+ Bill Number   : 2416
+ Customer Name : Sanam sharma
+ Phone Number  : 89898785
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		25		1000
+--------------------------------------
+ cosmetic Tax 			    Rs. 50
+ Grocery Tax 			    Rs. 0.0
+ Cold Drink Tax			    Rs. 0.0
+______________________________________
+
+ Total Bill : 			    Rs. 1050.0
+--------------------------------------

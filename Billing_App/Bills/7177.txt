@@ -1,0 +1,30 @@
+       Welcome Webstore Details
+ ｡☆✼★━━━━━━━━━━━━━━━★✼☆｡
+
+ Bill Number   : 7177
+ Customer Name : Arpit Dubey
+ Phone Number  : 8251999950
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		1		40
+ Face Wash		1		60
+ Rice		1		80
+ Food oil		1		180
+ Daal		1		60
+ Sugar		1		45
+ Wheat		1		240
+ Body Lotiont		1		150
+ Maza		5		300
+ Frooti		2		100
+ Thumbs Up		1		45
+ Limca		11		440
+ Sprite		1		60
+--------------------------------------
+ cosmetic Tax 			    Rs. 5
+ Grocery Tax 			    Rs. 75.5
+ Cold Drink Tax			    Rs. 47.25
+______________________________________
+
+ Total Bill : 			    Rs. 1927.75
+--------------------------------------

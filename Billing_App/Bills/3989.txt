@@ -1,0 +1,20 @@
+       Welcome Webstore Details
+ ｡☆✼★━━━━━━━━━━━━━━━★✼☆｡
+
+ Bill Number   : 3989
+ Customer Name : Rishab pant
+ Phone Number  : 878459566
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		8		320
+ Face cream		1		120
+ Frooti		1		50
+--------------------------------------
+ cosmetic Tax 			    Rs. 22
+ Grocery Tax 			    Rs. 0.0
+ Cold Drink Tax			    Rs. 2.5
+______________________________________
+
+ Total Bill : 			    Rs. 514.5
+--------------------------------------

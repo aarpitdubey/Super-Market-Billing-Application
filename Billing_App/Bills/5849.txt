@@ -1,0 +1,26 @@
+       Welcome Webstore Details
+ ｡☆✼★━━━━━━━━━━━━━━━★✼☆｡
+
+ Bill Number   : 5849
+ Customer Name : Sonu singh
+ Phone Number  : 
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		6		240
+ Face cream		1		120
+ Face Wash		1		60
+ Spray		2		360
+ Food oil		5		900
+ Wheat		6		1440
+ Body Lotiont		3		450
+ Coke		5		300
+ Sprite		8		480
+--------------------------------------
+ cosmetic Tax 			    Rs. 39
+ Grocery Tax 			    Rs. 279.0
+ Cold Drink Tax			    Rs. 39.0
+______________________________________
+
+ Total Bill : 			    Rs. 4707.0
+--------------------------------------

@@ -1,0 +1,26 @@
+       Welcome Webstore Details
+ ｡☆✼★━━━━━━━━━━━━━━━★✼☆｡
+
+ Bill Number   : 7559
+ Customer Name : Rohan Tiwary
+ Phone Number  : 778798545
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		1		40
+ Face cream		1		120
+ Food oil		1		180
+ Daal		2		120
+ Sugar		1		45
+ Body Lotiont		1		150
+ Coke		1		60
+ Thumbs Up		1		45
+ Sprite		3		180
+--------------------------------------
+ cosmetic Tax 			    Rs. 8
+ Grocery Tax 			    Rs. 49.5
+ Cold Drink Tax			    Rs. 14.25
+______________________________________
+
+ Total Bill : 			    Rs. 1011.75
+--------------------------------------
